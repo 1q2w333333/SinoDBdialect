@@ -17,7 +17,7 @@
 ```
 <dependency>
 
-    <groupId>dm</groupId>
+    <groupId>sinodbDialect</groupId>
 
     <artifactId>sinodbdialect</artifactId>
 
